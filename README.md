@@ -1,2 +1,2 @@
 # deep-learning-course
-Material y prácticas para Deep Learning.
+Material regarding Deep Learning Course ITESO 2024. 
